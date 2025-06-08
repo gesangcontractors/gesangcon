@@ -29,7 +29,7 @@ const jabodetabekPricing = [
       shopee: "https://shopee.com/store/jabodetabek/meja-direksi",
       tiktokShop: "https://tiktokshop.com/store/jabodetabek/meja-direksi",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Direksi%20untuk%20wilayah%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Direksi%20untuk%20wilayah%20JABODETABEK",
     },
   },
   {
@@ -56,7 +56,7 @@ const jabodetabekPricing = [
       shopee: "https://shopee.com/store/jabodetabek/meja-meeting",
       tiktokShop: "https://tiktokshop.com/store/jabodetabek/meja-meeting",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Meeting%20untuk%20wilayah%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Meeting%20untuk%20wilayah%20JABODETABEK",
     },
   },
   {
@@ -83,7 +83,7 @@ const jabodetabekPricing = [
       shopee: "https://shopee.com/store/jabodetabek/meja-resepsionis",
       tiktokShop: "https://tiktokshop.com/store/jabodetabek/meja-resepsionis",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Resepsionis%20untuk%20wilayah%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Resepsionis%20untuk%20wilayah%20JABODETABEK",
     },
   },
   {
@@ -107,7 +107,7 @@ const jabodetabekPricing = [
     ],
     orderLinks: {
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Ruang%20Kantor%20Modern%20untuk%20wilayah%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Ruang%20Kantor%20Modern%20untuk%20wilayah%20JABODETABEK",
     },
   },
 ];
@@ -138,7 +138,7 @@ const luarJabodetabekPricing = [
       shopee: "https://shopee.com/store/luar-jabodetabek/meja-direksi",
       tiktokShop: "https://tiktokshop.com/store/luar-jabodetabek/meja-direksi",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Direksi%20untuk%20wilayah%20luar%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Direksi%20untuk%20wilayah%20luar%20JABODETABEK",
     },
   },
   {
@@ -165,7 +165,7 @@ const luarJabodetabekPricing = [
       shopee: "https://shopee.com/store/luar-jabodetabek/meja-meeting",
       tiktokShop: "https://tiktokshop.com/store/luar-jabodetabek/meja-meeting",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Meeting%20untuk%20wilayah%20luar%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Meeting%20untuk%20wilayah%20luar%20JABODETABEK",
     },
   },
   {
@@ -194,7 +194,7 @@ const luarJabodetabekPricing = [
       tiktokShop:
         "https://tiktokshop.com/store/luar-jabodetabek/meja-resepsionis",
       whatsapp:
-        "https://wa.me/628123456789?text=Saya%20tertarik%20dengan%20Meja%20Resepsionis%20untuk%20wilayah%20luar%20JABODETABEK",
+        "https://wa.me/6287889522464?text=Saya%20tertarik%20dengan%20Meja%20Resepsionis%20untuk%20wilayah%20luar%20JABODETABEK",
     },
   },
 ];
